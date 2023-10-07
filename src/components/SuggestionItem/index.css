@@ -1,0 +1,13 @@
+.searches {
+  display: flex;
+  flex-direction: row;
+  font-family: 'Roboto';
+  justify-content: space-between;
+}
+p {
+  color: #475569;
+}
+.arrow {
+  max-height: 40px;
+  max-width: 40px;
+}
